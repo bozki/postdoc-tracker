@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Postdoc & Academic Position Tracker – Yingbo Dong</title>
+<style>
+  :root {
+    --bg: #f8f9fa;
+    --surface: #ffffff;
+    --border: #dee2e6;
+    --primary: #2563eb;
+    --primary-light: #eff6ff;
+    --text: #212529;
+    --muted: #6c757d;
+    --success: #198754;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --tag-bg: #e9ecef;
+    --shadow: 0 1px 3px rgba(0,0,0,.12);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0f172a;
+      --surface: #1e293b;
+      --border: #334155;
+      --primary: #60a5fa;
+      --primary-light: #1e3a5f;
+      --text: #e2e8f0;
+      --muted: #94a3b8;
+      --tag-bg: #334155;
+      --shadow: 0 1px 3px rgba(0,0,0,.4);
+    }
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+
+  header {
+    background: var(--surface);
+    border-bottom: 2px solid var(--primary);
+    padding: 1.5rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    box-shadow: var(--shadow);
+  }
+  header h1 { font-size: 1.4rem; font-weight: 700; color: var(--primary); }
+  header p { color: var(--muted); font-size: 0.85rem; }
+
+  .stats-bar {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding: 1rem 2rem;
+    background: var(--primary-light);
+    border-bottom: 1px solid var(--border);
+  }
+  .stat { text-align: center; }
+  .stat .n { font-size: 1.6rem; font-weight: 700; color: var(--primary); }
+  .stat .label { font-size: 0.75rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+
+  .controls {
+    display: flex;
+    gap: .75rem;
+    flex-wrap: wrap;
+    padding: 1rem 2rem;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+  }
+  .controls input, .controls select {
+    padding: .45rem .75rem;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--bg);
+    color: var(--text);
+    font-size: .9rem;
+  }
+  .controls input { flex: 1; min-width: 180px; }
+
+  main { padding: 1.5rem 2rem; max-width: 1400px; margin: 0 auto; }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1.25rem; }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.25rem;
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+    gap: .6rem;
+    transition: box-shadow .15s;
+  }
+  .card:hover { box-shadow: 0 4px 12px rgba(0,0,0,.15); }
+  .card-header { display: flex; align-items: flex-start; justify-content: space-between; gap: .5rem; }
+  .card-title { font-weight: 700; font-size: 1rem; color: var(--text); }
+  .badge {
+    display: inline-block;
+    padding: .2rem .55rem;
+    border-radius: 20px;
+    font-size: .72rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .badge-postdoc { background: #dbeafe; color: #1d4ed8; }
+  .badge-ap { background: #dcfce7; color: #15803d; }
+  @media (prefers-color-scheme: dark) {
+    .badge-postdoc { background: #1e3a5f; color: #93c5fd; }
+    .badge-ap { background: #14532d; color: #86efac; }
+  }
+
+  .institution { font-size: .95rem; color: var(--muted); }
+  .country-flag { font-size: .85rem; }
+
+  .tags { display: flex; flex-wrap: wrap; gap: .35rem; }
+  .tag { background: var(--tag-bg); border-radius: 4px; padding: .15rem .45rem; font-size: .75rem; color: var(--muted); }
+
+  .desc { font-size: .85rem; color: var(--muted); line-height: 1.5; }
+
+  .meta { font-size: .8rem; color: var(--muted); display: flex; flex-wrap: wrap; gap: .5rem 1rem; }
+  .meta span { display: flex; align-items: center; gap: .25rem; }
+  .ddl-expired { color: var(--danger); font-weight: 600; }
+  .ddl-soon { color: var(--warning); font-weight: 600; }
+  .ddl-ok { color: var(--success); }
+
+  .card-footer { margin-top: auto; display: flex; gap: .5rem; align-items: center; }
+  .btn {
+    display: inline-block;
+    padding: .35rem .85rem;
+    border-radius: 6px;
+    font-size: .82rem;
+    font-weight: 600;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+  }
+  .btn-primary { background: var(--primary); color: #fff; }
+  .btn-primary:hover { opacity: .88; }
+
+  .added-date { font-size: .72rem; color: var(--muted); margin-left: auto; }
+
+  .empty { text-align: center; color: var(--muted); padding: 3rem; font-size: 1rem; }
+
+  footer {
+    text-align: center;
+    padding: 1.5rem;
+    color: var(--muted);
+    font-size: .8rem;
+    border-top: 1px solid var(--border);
+    margin-top: 2rem;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>🎓 Postdoc & Academic Position Tracker</h1>
+    <p>Yingbo Dong — SAR/InSAR · Remote Sensing · Natural Hazards · AI/ML</p>
+  </div>
+  <div style="text-align:right">
+    <div id="lastUpdated" style="font-size:.82rem;color:var(--muted)"></div>
+    <div style="font-size:.75rem;color:var(--muted)">Target: UK · Europe · USA · Singapore · HK · Australia</div>
+  </div>
+</header>
+
+<div class="stats-bar">
+  <div class="stat"><div class="n" id="statTotal">—</div><div class="label">Total</div></div>
+  <div class="stat"><div class="n" id="statPostdoc">—</div><div class="label">Post-doc</div></div>
+  <div class="stat"><div class="n" id="statAP">—</div><div class="label">Asst Prof</div></div>
+  <div class="stat"><div class="n" id="statActive">—</div><div class="label">Active DDL</div></div>
+</div>
+
+<div class="controls">
+  <input type="text" id="searchBox" placeholder="Search institution, country, description…" oninput="render()">
+  <select id="filterPos" onchange="render()">
+    <option value="">All positions</option>
+    <option value="Post-doc">Post-doc only</option>
+    <option value="Assistant Professor">Asst Prof only</option>
+  </select>
+  <select id="filterCountry" onchange="render()">
+    <option value="">All countries</option>
+  </select>
+</div>
+
+<main>
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" style="display:none">No positions match your filters.</div>
+</main>
+
+<footer>
+  Auto-updated by scheduled search agent · <a href="https://github.com/bozki/postdoc-tracker" style="color:var(--primary)">GitHub repo</a>
+</footer>
+
+<script>
+const COUNTRY_FLAGS = {
+  'Norway': '🇳🇴', 'Ireland': '🇮🇪', 'Czech Republic': '🇨🇿', 'UK': '🇬🇧',
+  'Singapore': '🇸🇬', 'Canada': '🇨🇦', 'Sweden': '🇸🇪', 'Netherlands': '🇳🇱',
+  'USA': '🇺🇸', 'Australia': '🇦🇺', 'Germany': '🇩🇪', 'France': '🇫🇷',
+  'Hong Kong': '🇭🇰', 'Switzerland': '🇨🇭', 'Luxembourg': '🇱🇺'
+};
+
+let allPositions = [];
+
+async function loadData() {
+  try {
+    const res = await fetch('data.json?t=' + Date.now());
+    const data = await res.json();
+    allPositions = data.positions || [];
+    document.getElementById('lastUpdated').textContent = 'Last updated: ' + (data.lastUpdated || '—');
+
+    // Populate country filter
+    const countries = [...new Set(allPositions.map(p => p.country))].sort();
+    const sel = document.getElementById('filterCountry');
+    countries.forEach(c => {
+      const opt = document.createElement('option');
+      opt.value = c; opt.textContent = (COUNTRY_FLAGS[c] || '') + ' ' + c;
+      sel.appendChild(opt);
+    });
+
+    updateStats(allPositions);
+    render();
+  } catch(e) {
+    document.getElementById('grid').innerHTML = '<p style="color:red">Failed to load data.json</p>';
+  }
+}
+
+function ddlClass(ddl) {
+  if (!ddl || ddl === 'Rolling') return 'ddl-ok';
+  const [y,m,d] = ddl.split('.').map(Number);
+  const diff = new Date(y,m-1,d) - new Date();
+  if (diff < 0) return 'ddl-expired';
+  if (diff < 14*86400000) return 'ddl-soon';
+  return 'ddl-ok';
+}
+
+function updateStats(positions) {
+  document.getElementById('statTotal').textContent = positions.length;
+  document.getElementById('statPostdoc').textContent = positions.filter(p=>p.position==='Post-doc').length;
+  document.getElementById('statAP').textContent = positions.filter(p=>p.position==='Assistant Professor').length;
+  document.getElementById('statActive').textContent = positions.filter(p=>{
+    if (!p.ddl || p.ddl==='Rolling') return true;
+    const [y,m,d] = p.ddl.split('.').map(Number);
+    return new Date(y,m-1,d) >= new Date();
+  }).length;
+}
+
+function render() {
+  const q = document.getElementById('searchBox').value.toLowerCase();
+  const pos = document.getElementById('filterPos').value;
+  const country = document.getElementById('filterCountry').value;
+
+  const filtered = allPositions.filter(p => {
+    if (pos && p.position !== pos) return false;
+    if (country && p.country !== country) return false;
+    if (q) {
+      const hay = [p.institution, p.country, p.desc, p.position, p.requirements].join(' ').toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  updateStats(filtered);
+
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+
+  if (!filtered.length) {
+    grid.innerHTML = '';
+    empty.style.display = '';
+    return;
+  }
+  empty.style.display = 'none';
+
+  grid.innerHTML = filtered.map(p => {
+    const flag = COUNTRY_FLAGS[p.country] || '🌐';
+    const badgeClass = p.position === 'Post-doc' ? 'badge-postdoc' : 'badge-ap';
+    const cls = ddlClass(p.ddl);
+    const ddlLabel = !p.ddl ? '—' : p.ddl === 'Rolling' ? '🔄 Rolling' : p.ddl;
+    const expired = cls === 'ddl-expired' ? ' (Expired)' : '';
+    const tags = extractTags(p);
+    return `<div class="card">
+      <div class="card-header">
+        <div class="card-title">${p.institution}</div>
+        <span class="badge ${badgeClass}">${p.position}</span>
+      </div>
+      <div class="institution">${flag} ${p.country}</div>
+      <div class="tags">${tags.map(t=>`<span class="tag">${t}</span>`).join('')}</div>
+      <div class="desc">${p.desc}</div>
+      <div class="meta">
+        <span>📅 <span class="${cls}">${ddlLabel}${expired}</span></span>
+        ${p.funding ? `<span>💰 ${p.funding.split('(')[0].trim()}</span>` : ''}
+        <span>🔎 ${p.source}</span>
+      </div>
+      ${p.ddl_note ? `<div style="font-size:.75rem;color:var(--muted);font-style:italic">${p.ddl_note}</div>` : ''}
+      <div class="card-footer">
+        <a class="btn btn-primary" href="${p.link}" target="_blank" rel="noopener">View Position</a>
+        <span class="added-date">Added ${p.addedDate}</span>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function extractTags(p) {
+  const tags = [];
+  const text = (p.desc + ' ' + p.requirements).toLowerCase();
+  if (text.includes('insar') || text.includes('interferom')) tags.push('InSAR');
+  if (text.includes('sar') && !tags.includes('InSAR')) tags.push('SAR');
+  if (text.includes('landslide')) tags.push('Landslide');
+  if (text.includes('remote sensing') || text.includes('earth observation')) tags.push('EO');
+  if (text.includes('machine learning') || text.includes('ml') || text.includes('deep learning') || text.includes('ai')) tags.push('ML/AI');
+  if (text.includes('geohazard') || text.includes('natural hazard') || text.includes('hazard')) tags.push('Geohazards');
+  if (text.includes('deformation') || text.includes('subsidence') || text.includes('displacement')) tags.push('Deformation');
+  if (text.includes('gis')) tags.push('GIS');
+  if (text.includes('time series')) tags.push('Time-series');
+  if (tags.length === 0) tags.push('Remote Sensing');
+  return tags;
+}
+
+loadData();
+</script>
+</body>
+</html>
