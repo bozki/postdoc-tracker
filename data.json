@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28",
+  "lastUpdated": "2026-08-29",
   "positions": [
     {
       "id": 1724745600001,
@@ -238,6 +238,57 @@
       "desc": "Lecturer in Natural Hazards (R&T) at University of Glasgow, School of Social & Environmental Sustainability, Dumfries Campus. Focus on natural hazards characterization and risk to society. GIS and remote sensing methodologies particularly welcomed. Posted 25 February 2026.",
       "addedDate": "2026-08-28",
       "source": "jobs.gla.ac.uk"
+    },
+    {
+      "id": 1756483200001,
+      "institution": "NASA Jet Propulsion Laboratory (JPL)",
+      "country": "USA",
+      "position": "Post-doc",
+      "funding": "JPL Postdoctoral Fellowship (1–3 years, competitive US national lab salary)",
+      "requirements": "PhD in geophysics / remote sensing / Earth sciences\nExpertise in InSAR processing and time series analysis\nBackground in landslide or vertical land motion research",
+      "ddl": "Rolling",
+      "ddl_note": "OPERA Project – advisors Dr. Al Handwerger & Dr. Marin Govorcin. Apply via jpl.jobs R5487.",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.jpl.jobs/job/R5487/Postdoc-Radar-Remote-Sensing-of-Landslides-and-Vertical-Land-Motion-OPERA-Project-1",
+      "desc": "Postdoc in Radar Remote Sensing of Landslides and Vertical Land Motion (OPERA Project). Perform original research using InSAR data and OPERA-derived products (DISP-S1) to understand surface deformation for hazard monitoring and response across North America. 1-year contract renewable to 3 years, under advisors Dr. Al Handwerger and Dr. Marin Govorcin.",
+      "addedDate": "2026-08-29",
+      "source": "jpl.jobs"
+    },
+    {
+      "id": 1756483200002,
+      "institution": "FM Global (Structures & Geohazards Research)",
+      "country": "USA",
+      "position": "Post-doc",
+      "funding": "FM Global Postdoctoral Fellowship (competitive industry rate, est. $70k–$90k/yr)",
+      "requirements": "PhD in geodesy / geophysics / remote sensing / Earth sciences\nStrong background in InSAR and/or GNSS processing\nExperience in subsidence or ground deformation analysis",
+      "ddl": "Rolling",
+      "ddl_note": "Structures and Geohazards Research Group, FM Global. Check phdjobs.com for current status.",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.phdjobs.com/jobdetail-180454-post-doctoral-fellowship-ground-deformation-recorded-by-geodetic-techniques",
+      "desc": "Postdoctoral Fellowship in Ground Deformation Recorded by Geodetic Techniques at FM Global. Compile and analyse multi-decadal InSAR and GNSS data to quantify natural and anthropogenic ground deformation; develop tools to assess subsidence hazard and vulnerability under different climate and land-management scenarios.",
+      "addedDate": "2026-08-29",
+      "source": "phdjobs.com"
+    },
+    {
+      "id": 1756483200003,
+      "institution": "Uppsala University (ERC FORECAST Project)",
+      "country": "Sweden",
+      "position": "Post-doc",
+      "funding": "ERC Consolidator Grant funded (Swedish postdoc salary ~SEK 35,000–42,000/month)",
+      "requirements": "PhD in geophysics / natural hazards / Earth sciences / applied mathematics\nBackground in landslide monitoring, statistical modelling, or failure prediction\nExperience with remote sensing or geodetic data advantageous",
+      "ddl": "Rolling",
+      "ddl_note": "ERC Consolidator Grant project FORECAST – 2 postdoc positions (3-yr). Check egu.eu/jobs/8178/ and Uppsala Varbi for current openings.",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.egu.eu/jobs/8178/",
+      "desc": "ERC-Funded Postdoctoral Positions in Natural Hazards at Uppsala University (2 positions, 3 years). Focus on catastrophic failure prediction in geophysical systems using LPPLS theory and dragon-king theory. One post focuses on glacier instabilities, one on volcanic eruptions/landslides. Access to NVE's Norwegian monitored landslide database.",
+      "addedDate": "2026-08-29",
+      "source": "egu.eu"
     }
   ]
 }
