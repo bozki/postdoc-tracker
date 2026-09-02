@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29",
+  "lastUpdated": "2026-09-02",
   "positions": [
     {
       "id": 1724745600001,
@@ -289,6 +289,57 @@
       "desc": "ERC-Funded Postdoctoral Positions in Natural Hazards at Uppsala University (2 positions, 3 years). Focus on catastrophic failure prediction in geophysical systems using LPPLS theory and dragon-king theory. One post focuses on glacier instabilities, one on volcanic eruptions/landslides. Access to NVE's Norwegian monitored landslide database.",
       "addedDate": "2026-08-29",
       "source": "egu.eu"
+    },
+    {
+      "id": 1788307200001,
+      "institution": "Institut Botànic de Barcelona (IBB/CSIC)",
+      "country": "Spain",
+      "position": "Post-doc",
+      "funding": "~€40,300 gross/year (CSIC postdoc scale), 2-year contract",
+      "requirements": "PhD in ecology / remote sensing / environmental science\nExperience with long-term satellite time series analysis (Landsat, Sentinel)\nBackground in ecosystem ecology, biodiversity, or global change science",
+      "ddl": "Rolling",
+      "ddl_note": "Rolling review from April 2026; start by September 2026. DISECO project (EGU jobs/7968).",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.egu.eu/jobs/7968/postdoctoral-researcher-in-remote-sensing-global-change-ecology/",
+      "desc": "Postdoctoral Researcher in Remote Sensing & Global Change Ecology at the Institut Botànic de Barcelona (IBB, CSIC-CMCNB), Spain. Part of the DISECO project studying the role of disequilibrium on niche and biodiversity effects over ecosystem trajectories. Tasks include extracting and processing long-term satellite time series (Landsat, Sentinel), developing workflows for terrestrial ecosystem trajectory analysis and disturbance detection, and integrating remote sensing products with biodiversity and climate datasets. 2-year position.",
+      "addedDate": "2026-09-02",
+      "source": "egu.eu"
+    },
+    {
+      "id": 1788307200002,
+      "institution": "Eurac Research",
+      "country": "Italy",
+      "position": "Post-doc",
+      "funding": "Eurac Research postdoc salary (Bolzano, Italy); Horizon Europe ARGOS + ESA SMEM funded",
+      "requirements": "PhD within past 3 years in remote sensing / geoscience / environmental science\nExperience in SAR remote sensing for soil moisture retrieval\nKnowledge of AI/ML methods for Earth Observation data analysis",
+      "ddl": "2026.06.15",
+      "ddl_note": "Deadline has passed (15 June 2026). Horizon Europe ARGOS + ESA SMEM projects. Institute for Earth Observation, Bolzano. Keep for reference.",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://eurac.onboard.org/jobs/zmg7pDmO",
+      "desc": "Postdoc Researcher in Soil Moisture Retrieval with Earth Observation data at Eurac Research (Institute for Earth Observation), Bolzano, Italy. Develop innovative workflows for soil moisture retrieval from SAR imagery using AI/ML. Contributing to Horizon Europe ARGOS (AI for real-time onboard SAR guidance) and ESA SMEM (Soil Moisture Ensemble Method) projects. Strong intersection with SAR processing and AI/deep learning.",
+      "addedDate": "2026-09-02",
+      "source": "egu.eu"
+    },
+    {
+      "id": 1788307200003,
+      "institution": "University of Potsdam",
+      "country": "Germany",
+      "position": "Post-doc",
+      "funding": "TV-L E13 100%, 3-year fixed-term (DFG WEAVE project funded)",
+      "requirements": "PhD in geomorphology / geology / geophysics / Earth sciences\nStrong quantitative skills; R or Python proficiency\nRemote sensing and data science experience preferred\nWillingness for fieldwork in mountainous terrain",
+      "ddl": "2026.04.23",
+      "ddl_note": "Deadline has passed (23 April 2026). Contact: Oliver Korup ([email protected]). DFG WEAVE project Geocascade; partners: Université de Liège, UCLouvain, ETH Zurich. Keep for reference.",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.applykite.com/positions/postdoc-in-landslide-research-and-geohazards-at-the-university-of-potsdam-tr700ozbxq",
+      "desc": "Postdoctoral Researcher in Landslide Research and Geohazards at the University of Potsdam (Prof. Oliver Korup). 3-year position within the DFG-funded international WEAVE project Geocascade, focusing on large landslide dams as part of hazard cascades including earthquake-induced chains and climatic influences. Research includes landslide catalogue analysis, geophysical prospecting, and numerical modeling. International collaboration with Université de Liège, UCLouvain, and ETH Zurich.",
+      "addedDate": "2026-09-02",
+      "source": "applykite.com"
     }
   ]
 }
