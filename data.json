@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02",
+  "lastUpdated": "2026-09-03",
   "positions": [
     {
       "id": 1724745600001,
@@ -340,6 +340,57 @@
       "desc": "Postdoctoral Researcher in Landslide Research and Geohazards at the University of Potsdam (Prof. Oliver Korup). 3-year position within the DFG-funded international WEAVE project Geocascade, focusing on large landslide dams as part of hazard cascades including earthquake-induced chains and climatic influences. Research includes landslide catalogue analysis, geophysical prospecting, and numerical modeling. International collaboration with Université de Liège, UCLouvain, and ETH Zurich.",
       "addedDate": "2026-09-02",
       "source": "applykite.com"
+    },
+    {
+      "id": 1788393600001,
+      "institution": "Nanyang Technological University (NTU)",
+      "country": "Singapore",
+      "position": "Post-doc",
+      "funding": "Up to SGD 250,000 research grant + NRF/NTU funded; up to 4 years",
+      "requirements": "PhD conferred 2023 or later in any STEM discipline\nProposal must integrate AI methods with a scientific domain (e.g. Earth observation, remote sensing, geohazard monitoring)\nStrong AI/ML research background",
+      "ddl": "2026.10.30",
+      "ddl_note": "Deadline: 30 October 2026 (SGT). PhD conferment from 2023 required. Submit via NTU AI-for-X fellowship portal.",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.ntu.edu.sg/research/research-careers/ntu-ai-for-x-postdoctoral-fellowship",
+      "desc": "NTU AI-for-X Postdoctoral Fellowship 2026 (AI4X-PDF) – Nanyang Technological University & National Research Foundation Singapore. Supports outstanding early-career researchers applying AI to accelerate STEM scientific discovery. Fellows design their own AI+science project in any STEM domain, including Earth observation, InSAR, and geohazard monitoring. Up to 4 years funding + SGD 250,000 research grant. Ideal for candidates with AI/deep learning expertise in remote sensing and natural hazard monitoring.",
+      "addedDate": "2026-09-03",
+      "source": "ntu.edu.sg"
+    },
+    {
+      "id": 1788393600002,
+      "institution": "Arctic University of Norway (UiT Narvik)",
+      "country": "Norway",
+      "position": "Post-doc",
+      "funding": "Norwegian state postdoctoral salary (UiT scale)",
+      "requirements": "Norwegian PhD or equivalent international PhD in InSAR / remote sensing / applied physics / satellite technology\nExperience in InSAR signal processing\nKnowledge of SAR satellite data handling",
+      "ddl": "Rolling",
+      "ddl_note": "Department of Electrical Engineering, Faculty of Engineering Science and Technology, Narvik Campus. Listed via IEEE GRSS opportunities board.",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.grss-ieee.org/opportunities/postdoctoral-research-in-remote-sensing-interferometric-sar/",
+      "desc": "Postdoctoral Research in Remote Sensing – Interferometric SAR at the Arctic University of Norway (UiT), Narvik Campus. Research focus: using InSAR to track volumes of liquid bulk commodities in a port by measuring deformation of onshore storage tanks. Strong InSAR processing background required. International PhD equivalent accepted. Listed via IEEE GRSS opportunities board.",
+      "addedDate": "2026-09-03",
+      "source": "grss-ieee.org"
+    },
+    {
+      "id": 1788393600003,
+      "institution": "University of Edinburgh",
+      "country": "UK",
+      "position": "Assistant Professor",
+      "funding": "Open-ended contract, UK university Lecturer salary scale",
+      "requirements": "PhD in hydrology or closely related Earth / environmental science\nExpertise in hydrological sciences research and teaching\nStrong publication record",
+      "ddl": "Rolling",
+      "ddl_note": "School of GeoSciences, BSc (Hons) Geography programme. Posted 15 July 2026. Open-ended (permanent) position.",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.egu.eu/jobs/8302/lecturer-assistant-professor-in-hydrology/",
+      "desc": "Lecturer (Assistant Professor) in Hydrology at the School of GeoSciences, University of Edinburgh. Open-ended permanent academic position involving course design, field-based teaching, and supervision of undergraduate/graduate students. Edinburgh GeoSciences is a top UK Earth science research environment with strengths in natural hazards and remote sensing. Posted July 2026.",
+      "addedDate": "2026-09-03",
+      "source": "egu.eu"
     }
   ]
 }
