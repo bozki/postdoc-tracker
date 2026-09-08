@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03",
+  "lastUpdated": "2026-09-08",
   "positions": [
     {
       "id": 1724745600001,
@@ -391,6 +391,57 @@
       "desc": "Lecturer (Assistant Professor) in Hydrology at the School of GeoSciences, University of Edinburgh. Open-ended permanent academic position involving course design, field-based teaching, and supervision of undergraduate/graduate students. Edinburgh GeoSciences is a top UK Earth science research environment with strengths in natural hazards and remote sensing. Posted July 2026.",
       "addedDate": "2026-09-03",
       "source": "egu.eu"
+    },
+    {
+      "id": 1788825600001,
+      "institution": "University of Cambridge (CoMHaz)",
+      "country": "UK",
+      "position": "Post-doc",
+      "funding": "UKRI funded (Cambridge PDRA scale, est. £36,024–£44,263/year)",
+      "requirements": "PhD in Earth Sciences / remote sensing / geoscience\nExperience in SAR/InSAR or optical satellite image processing for landslide/slope monitoring\nProficiency in Python; automated satellite image analysis\nInterest in operationalizable landslide early warning systems",
+      "ddl": "Rolling",
+      "ddl_note": "Cambridge Complex and Multihazard research group (CoMHaz), Dept of Earth Sciences & Geography. PI: Dr Max Van Wyk de Vries",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.eurosciencejobs.com/job_display/257169/Research_Associate_in_Multihazard_Remote_Sensing_University_of_Cambridge_Department_of_Earth_Sciences_Cambridge_United_Kingdom",
+      "desc": "Research Associate in Multihazard Remote Sensing at the University of Cambridge (Department of Earth Sciences & Geography). Join the newly established Cambridge Complex and Multihazard research group (CoMHaz). Develop an operationalizable satellite-based landslide detector using freely available optical and radar (SAR/InSAR) imagery, with prototype deployments in the Andes and Himalaya. Build a modular open-source displacement tracking toolbox for natural systems to support regional/national-scale landslide early warning.",
+      "addedDate": "2026-09-08",
+      "source": "eurosciencejobs.com"
+    },
+    {
+      "id": 1788825600002,
+      "institution": "University of Arizona (Social Pixel Lab)",
+      "country": "USA",
+      "position": "Post-doc",
+      "funding": "NSF funded (US postdoc salary)",
+      "requirements": "PhD in remote sensing / geoscience / computer science / environmental science\nExperience with machine learning for satellite image analysis\nBackground in flood mapping or hydrological remote sensing\nInterest in societal/equity dimensions of hazard monitoring",
+      "ddl": "Rolling",
+      "ddl_note": "Social Pixel Lab, University of Arizona; NSF-funded position; flood mapping & equity in hazard monitoring",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.grss-ieee.org/opportunities/post-doctoral-position-nsf-funded-in-remote-sensing-ml-flooding-equity-at-university-of-arizona/",
+      "desc": "Post-doctoral Position (NSF funded) in Remote Sensing, ML, Flooding & Equity at the University of Arizona Social Pixel Lab. Develop ML models for flood mapping using satellite imagery and build a comprehensive historic US flood database. Work at the intersection of satellite remote sensing, machine learning and equity in natural hazard monitoring.",
+      "addedDate": "2026-09-08",
+      "source": "grss-ieee.org"
+    },
+    {
+      "id": 1788825600003,
+      "institution": "Colorado State University",
+      "country": "USA",
+      "position": "Post-doc",
+      "funding": "CSU Research Scientist I salary (est. $60,000–$80,000/year)",
+      "requirements": "PhD in geoscience / geodesy / remote sensing / civil engineering\nExperience processing large-volume InSAR datasets (>50 TB)\nStrong background in InSAR time series analysis for land deformation and subsidence\nProficiency in scientific programming (Python/MATLAB)",
+      "ddl": "Rolling",
+      "ddl_note": "Department of Civil and Environmental Engineering, Colorado State University. Check jobs.colostate.edu/postings/159464 for current status.",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://jobs.colostate.edu/postings/159464",
+      "desc": "Research Scientist I – Remote Sensing Scientist (InSAR) at Colorado State University, Department of Civil and Environmental Engineering. Process and analyse large quantities (>50 TB) of InSAR data to produce time series of land surface deformation and long-term subsidence across regional to continental scales. Strong InSAR processing expertise required.",
+      "addedDate": "2026-09-08",
+      "source": "joshswaterjobs.com"
     }
   ]
 }
