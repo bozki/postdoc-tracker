@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08",
+  "lastUpdated": "2026-09-09",
   "positions": [
     {
       "id": 1724745600001,
@@ -442,6 +442,57 @@
       "desc": "Research Scientist I – Remote Sensing Scientist (InSAR) at Colorado State University, Department of Civil and Environmental Engineering. Process and analyse large quantities (>50 TB) of InSAR data to produce time series of land surface deformation and long-term subsidence across regional to continental scales. Strong InSAR processing expertise required.",
       "addedDate": "2026-09-08",
       "source": "joshswaterjobs.com"
+    },
+    {
+      "id": 1757376001,
+      "institution": "Lund University",
+      "country": "Sweden",
+      "position": "Post-doc",
+      "funding": "Swedish Transport Administration funded project; Swedish public sector salary scale",
+      "requirements": "PhD in Remote Sensing, Geodesy, Geoscience, or related field\nExperience with SAR/InSAR processing (SBAS-InSAR, PS-InSAR)\nProficiency in relevant programming languages\nStrong publication record",
+      "ddl": "Rolling",
+      "ddl_note": "Check EURAXESS for closing date",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://euraxess.ec.europa.eu/jobs/250637",
+      "desc": "Postdoctoral researcher analyzing SBAS-InSAR technique for ground displacement mapping of transport infrastructure in non-urban and partly vegetated areas. Collaboration with Swedish Transport Administration; applies PS-InSAR and SBAS-InSAR on Sentinel-1 data. Highly relevant to InSAR processing and ground motion monitoring.",
+      "addedDate": "2026-09-09",
+      "source": "EURAXESS"
+    },
+    {
+      "id": 1757376002,
+      "institution": "Stanford University (Thompson Fellowship)",
+      "country": "USA",
+      "position": "Post-doc",
+      "funding": "≥$80,000/year salary + $15,000 research allowance",
+      "requirements": "PhD in Geophysics or related field (within 2 years of award)\nStrong research record\nAny area of geophysics including remote sensing and sustainability science\nApplication: CV, research statement, references",
+      "ddl": "2026.10.01",
+      "ddl_note": "October 1, 2026 for fullest consideration; open until filled; interviews January 2027",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://geophysics.stanford.edu/thompson-postdoctoral-fellowship",
+      "desc": "Prestigious Thompson Postdoctoral Fellowship at Stanford Geophysics Dept. Open to any geophysics sub-field including remote sensing, geodesy, earth observation, and natural hazard applications. Fellowship period starts June 2027-2028, renewable for 2nd year. Competitive salary and research allowance.",
+      "addedDate": "2026-09-09",
+      "source": "Stanford Geophysics"
+    },
+    {
+      "id": 1757376003,
+      "institution": "Los Alamos National Laboratory (ISR-6)",
+      "country": "USA",
+      "position": "Post-doc",
+      "funding": "Starting salary ~$97,000+; full LANL postdoc benefits",
+      "requirements": "PhD in Remote Sensing, Computer Science, Physics, or related field\nExperience in remote sensing, image/signal processing\nMachine learning and data science skills\nInterest in interdisciplinary research",
+      "ddl": "Rolling",
+      "ddl_note": "Open until filled; check LANL careers portal",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://lanl.jobs/search/jobdetails/postdoctoral-researcher---space-remote-sensing-and-data-science/96f96417-9a5a-4f2f-85f2-76ef5a441621",
+      "desc": "Postdoctoral researcher in Space Remote Sensing and Data Science Group (ISR-6) at LANL. Projects related to remote sensing, image and signal processing, machine learning, and sensor data analysis. Work tailored to candidate background. 2-year appointment, renewable to 3 years. Onsite Los Alamos, NM.",
+      "addedDate": "2026-09-09",
+      "source": "LANL Careers"
     }
   ]
 }
