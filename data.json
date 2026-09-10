@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09",
+  "lastUpdated": "2026-09-10",
   "positions": [
     {
       "id": 1724745600001,
@@ -493,6 +493,40 @@
       "desc": "Postdoctoral researcher in Space Remote Sensing and Data Science Group (ISR-6) at LANL. Projects related to remote sensing, image and signal processing, machine learning, and sensor data analysis. Work tailored to candidate background. 2-year appointment, renewable to 3 years. Onsite Los Alamos, NM.",
       "addedDate": "2026-09-09",
       "source": "LANL Careers"
+    },
+    {
+      "id": 1789024393000,
+      "institution": "Chinese University of Hong Kong (CUHK)",
+      "country": "Hong Kong",
+      "position": "Post-doc",
+      "funding": "RGC General Research Fund / CUHK Project Grants",
+      "requirements": "PhD in remote sensing, GIS, computer science, or earth science\nExperience with SAR/InSAR processing\nBackground in deep learning or machine learning preferred",
+      "ddl": "Rolling",
+      "ddl_note": "Open rolling recruitment; contact Prof. MA Peifeng directly",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.iseis.cuhk.edu.hk/en/mapeifeng.html",
+      "desc": "Post-doctoral fellowship with Prof. MA Peifeng at CUHK Institute of Space and Earth Information Science. Research focuses on InSAR-based landslide deformation monitoring and risk assessment in vegetated subtropical mountain areas, deep learning for landslide susceptibility mapping, and development of satellite-integrated remote sensing technologies for near-real-time landslide monitoring. Candidates with SAR/InSAR, machine learning, or geohazard backgrounds are welcome.",
+      "addedDate": "2026-09-10",
+      "source": "GRSS-IEEE / CUHK ISEIS"
+    },
+    {
+      "id": 1789024393001,
+      "institution": "Helmholtz-Zentrum Dresden-Rossendorf (HZDR)",
+      "country": "Germany",
+      "position": "Post-doc",
+      "funding": "Helmholtz Association (HZDR / Helmholtz Institute Freiberg)",
+      "requirements": "PhD in remote sensing, geology, geophysics, or related field\nExperience with hyperspectral or multispectral remote sensing data\nProgramming skills for UAV/airborne/satellite data processing\nKnowledge of SAR/InSAR a plus",
+      "ddl": "Rolling",
+      "ddl_note": "Check GRSS-IEEE and HZDR careers page for current deadline",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.grss-ieee.org/opportunities/phd-and-postdoc-positions-at-helmholtz-zentrum-dresden-rossendorf-hzdr/",
+      "desc": "PostDoc at HZDR/CASUS in hyperspectral geological mapping from UAV to satellite scale. Involves co-registered UAV, airborne, and satellite training datasets across Germany and Spain. Sits at the intersection of remote sensing, geology, and applied AI for geological interpretation. InSAR and active remote sensing experience valued.",
+      "addedDate": "2026-09-10",
+      "source": "GRSS-IEEE / Nature Careers"
     }
   ]
 }
