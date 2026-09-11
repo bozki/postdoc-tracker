@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10",
+  "lastUpdated": "2026-09-11",
   "positions": [
     {
       "id": 1724745600001,
@@ -527,6 +527,40 @@
       "desc": "PostDoc at HZDR/CASUS in hyperspectral geological mapping from UAV to satellite scale. Involves co-registered UAV, airborne, and satellite training datasets across Germany and Spain. Sits at the intersection of remote sensing, geology, and applied AI for geological interpretation. InSAR and active remote sensing experience valued.",
       "addedDate": "2026-09-10",
       "source": "GRSS-IEEE / Nature Careers"
+    },
+    {
+      "id": 1726012001,
+      "institution": "Alfred Wegener Institute (AWI) / DLR",
+      "country": "Germany",
+      "position": "Post-doc",
+      "funding": "TVöD Bund Level 13 (public sector pay scale)",
+      "requirements": "PhD in Earth Sciences, Remote Sensing, or related field\nExperience in large-scale interferometric SAR data processing and analysis\nProgramming skills (Python/MATLAB)\nBasic knowledge of AI processing methods\nExperience with TanDEM-X or similar SAR data preferred",
+      "ddl": "Rolling",
+      "ddl_note": "Position employment limited to May 31, 2027",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://recruitingapp-5442.de.umantis.com/Vacancies/1883/Description/2?lang=eng",
+      "desc": "PostDoc position on interferometric TanDEM-X data processing and analysis for implementation in the 3D-ABC Foundation Model. Role involves developing software for data management/processing, analysing InSAR results, and supporting development of forest height/biomass downstream tasks. Extended stays at DLR Microwaves and Radar Institute (PolInSAR group) in Oberpfaffenhofen planned. Hosted by AWI Potsdam in collaboration with DLR.",
+      "addedDate": "2026-09-11",
+      "source": "GRSS-IEEE / AWI"
+    },
+    {
+      "id": 1726012002,
+      "institution": "Lamont-Doherty Earth Observatory (Columbia University)",
+      "country": "USA",
+      "position": "Post-doc",
+      "funding": "NASA-funded project (competitive postdoctoral salary)",
+      "requirements": "PhD in Earth Science or related field\nExperience processing and analyzing Interferometric Synthetic Aperture Radar (InSAR)\nFamiliarity with GNSS data analysis preferred\nStrong programming skills",
+      "ddl": "2026.11.06",
+      "ddl_note": "Referees letter deadline: Nov 13, 2026",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://lamont.columbia.edu/postdocs",
+      "desc": "Postdoctoral Research Scientist to design and implement research using InSAR and GNSS within a NASA-funded project studying the IndoBurma Subduction Zone (IBSZ). Will use Sentinel-1 and ALOS-2 satellite data alongside GNSS to determine horizontal and vertical deformation rates of this active accretionary prism partially buried by the Ganges-Brahmaputra Delta. Research group of Prof. Michael Steckler, with collaboration with University of New Mexico and COMET at University of Leeds.",
+      "addedDate": "2026-09-11",
+      "source": "Lamont-Doherty / CSDMS"
     }
   ]
 }
