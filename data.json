@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11",
+  "lastUpdated": "2026-09-12",
   "positions": [
     {
       "id": 1724745600001,
@@ -561,6 +561,23 @@
       "desc": "Postdoctoral Research Scientist to design and implement research using InSAR and GNSS within a NASA-funded project studying the IndoBurma Subduction Zone (IBSZ). Will use Sentinel-1 and ALOS-2 satellite data alongside GNSS to determine horizontal and vertical deformation rates of this active accretionary prism partially buried by the Ganges-Brahmaputra Delta. Research group of Prof. Michael Steckler, with collaboration with University of New Mexico and COMET at University of Leeds.",
       "addedDate": "2026-09-11",
       "source": "Lamont-Doherty / CSDMS"
+    },
+    {
+      "id": 1789171200001,
+      "institution": "University of Bucharest (DELTA-Hub)",
+      "country": "Romania",
+      "position": "Post-doc",
+      "funding": "€4,000/month gross, 2-year contract (Horizon Europe ERA Chair – DELTA-Hub)",
+      "requirements": "PhD in Earth sciences, remote sensing, hydrology, geodesy, physical geography, oceanography, or data science\nStrong Python programming skills\nExperience with large geospatial datasets\nFamiliarity with multi-sensor satellite data (SWOT, NISAR, ICESat-2, Sentinel, Landsat)",
+      "ddl": "Rolling",
+      "ddl_note": "Rolling review until filled. Flexible start (Spring–Summer 2026 or by arrangement). Submit CV, 1-page motivation letter and two referees to the DELTA-Hub website.",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.egu.eu/jobs/8301/",
+      "desc": "Postdoctoral Researcher in Global Delta Dynamics from Satellite Observations at the University of Bucharest (DELTA-Hub Horizon Europe ERA Chair, PI: Prof. Edward Anthony). Develop satellite-based analyses of global delta hydrodynamics and morphodynamics using SWOT, NISAR, ICESat-2, Sentinel-2/3/6, and Landsat. Shape own research line from new data products to global comparative analyses. Direct collaboration with NASA JPL and SWOT science team (research stay possible). International advisory network: TU Delft, Deltares, Tyndall Centre, Wageningen. Optional fieldwork in the Danube Delta. 2-year position, €4,000/month gross.",
+      "addedDate": "2026-09-12",
+      "source": "egu.eu"
     }
   ]
 }
