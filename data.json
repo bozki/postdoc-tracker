@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12",
+  "lastUpdated": "2026-09-13",
   "positions": [
     {
       "id": 1724745600001,
@@ -578,6 +578,40 @@
       "desc": "Postdoctoral Researcher in Global Delta Dynamics from Satellite Observations at the University of Bucharest (DELTA-Hub Horizon Europe ERA Chair, PI: Prof. Edward Anthony). Develop satellite-based analyses of global delta hydrodynamics and morphodynamics using SWOT, NISAR, ICESat-2, Sentinel-2/3/6, and Landsat. Shape own research line from new data products to global comparative analyses. Direct collaboration with NASA JPL and SWOT science team (research stay possible). International advisory network: TU Delft, Deltares, Tyndall Centre, Wageningen. Optional fieldwork in the Danube Delta. 2-year position, €4,000/month gross.",
       "addedDate": "2026-09-12",
       "source": "egu.eu"
+    },
+    {
+      "id": 1789344000001,
+      "institution": "Center for Land Surface Hazards (CLaSH) – Multiple US Universities",
+      "country": "USA",
+      "position": "Post-doc",
+      "funding": "NSF-funded ($15M center), competitive US postdoctoral salary; multiple positions at variable institutions",
+      "requirements": "PhD in geoscience / geomorphology / remote sensing / civil engineering / hydrology or related field\nExperience with landslide, mass movement, or land surface hazard research\nInSAR, LiDAR, photogrammetry, or numerical modeling background\nContact individual mentors: Josh West (USC), Dimitrios Zekkos (UC Berkeley), Stephen Hughes (UPR Mayaguez)",
+      "ddl": "Rolling",
+      "ddl_note": "Multiple postdoc positions for AY2026/27; variable start dates. Contact mentors directly via geoclash.org. Listed on CSDMS (Job-01915).",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.geoclash.org/",
+      "desc": "CLaSH (Center for Land Surface Hazards) is a new NSF-funded center ($15M), led by University of Michigan and University of Nevada Reno, to advance fundamental science of natural hazards including landslides, rockfalls, debris flows, and surface processes. Multiple postdoctoral positions available for AY2026/27 across partner institutions (USC, UC Berkeley, University of Puerto Rico Mayaguez, and others). Research tools include InSAR, LiDAR, photogrammetry, numerical modeling, and cosmogenic nuclides. Fellows join interdisciplinary cohort with access to CLaSH's distributed hazard observatory network across diverse landscapes.",
+      "addedDate": "2026-09-13",
+      "source": "CSDMS / geoclash.org"
+    },
+    {
+      "id": 1789344000002,
+      "institution": "TU Delft (Department of Geoscience and Engineering)",
+      "country": "Netherlands",
+      "position": "Assistant Professor",
+      "funding": "Tenure-track; €61,000–€99,000 gross/year (Dutch university scale 12), full benefits package",
+      "requirements": "PhD in Geotechnical Engineering / geo-monitoring / remote sensing or related field\nStrong background in geo-monitoring methodologies and data analytics\nExperience with AI/ML for geospatial or sensor data integration\nPublications in international peer-reviewed journals\nTeaching ability at BSc, MSc, and PhD levels",
+      "ddl": "Rolling",
+      "ddl_note": "Applications may be closed; check TU Delft careers portal. Posted via EGU jobs/8207. Faculty of Civil Engineering and Geosciences.",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.egu.eu/jobs/8207/",
+      "desc": "Tenure-track Assistant Professor of Geo-Monitoring and Data Analytics at TU Delft, Department of Geoscience and Engineering (Faculty of Civil Engineering and Geosciences). Focus on developing innovative geo-monitoring methodologies integrating multi-sensor data (including SAR/InSAR), AI/ML, and advanced data analytics for monitoring land surface, infrastructure, and geo-systems. Strong connection to applied geospatial remote sensing and data-driven geoscience. TU Delft's Geoscience and Remote Sensing group is one of Europe's top InSAR research centers.",
+      "addedDate": "2026-09-13",
+      "source": "EGU jobs / TU Delft"
     }
   ]
 }
