@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13",
+  "lastUpdated": "2026-09-14",
   "positions": [
     {
       "id": 1724745600001,
@@ -612,6 +612,23 @@
       "desc": "Tenure-track Assistant Professor of Geo-Monitoring and Data Analytics at TU Delft, Department of Geoscience and Engineering (Faculty of Civil Engineering and Geosciences). Focus on developing innovative geo-monitoring methodologies integrating multi-sensor data (including SAR/InSAR), AI/ML, and advanced data analytics for monitoring land surface, infrastructure, and geo-systems. Strong connection to applied geospatial remote sensing and data-driven geoscience. TU Delft's Geoscience and Remote Sensing group is one of Europe's top InSAR research centers.",
       "addedDate": "2026-09-13",
       "source": "EGU jobs / TU Delft"
+    },
+    {
+      "id": 1789430400001,
+      "institution": "University of Washington (Geohazard Initiative)",
+      "country": "USA",
+      "position": "Post-doc",
+      "funding": "UW College of the Environment Geohazard Initiative (Jerry & Linda Paros endowment funded)",
+      "requirements": "PhD in geophysics / geoscience / Earth sciences\nBackground in multi-hazard monitoring (seismic, volcanic, geodetic, or remote sensing)\nExperience with multi-sensor data integration\nStrong programming skills (Python)",
+      "ddl": "Rolling",
+      "ddl_note": "Priority deadline Jan 5, 2026; open until filled. PIs: Dr. Marine Denolle & Dr. Paul Bodin; collaborators: USGS Cascades Volcano Observatory, Pacific Northwest Seismic Network, UW eScience Institute.",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://environment.uw.edu/research/postdoctoral-fellows/open-postdoc-positions/",
+      "desc": "Postdoctoral Scholar in Multi-Hazard, Multi-Sensor Monitoring at Mt Rainier. Lead interdisciplinary science at the UW College of the Environment Geohazard Initiative to advance understanding of geological hazards (landslides, volcanic, seismic) in one of North America most geologically active regions. Multi-sensor monitoring approach includes geodetic/remote sensing (InSAR, SAR), seismic, and atmospheric data. Collaboration with USGS Cascades Volcano Observatory and Pacific Northwest Seismic Network.",
+      "addedDate": "2026-09-14",
+      "source": "UW College of the Environment / Glassdoor"
     }
   ]
 }
