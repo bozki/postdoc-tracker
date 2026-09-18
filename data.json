@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17",
+  "lastUpdated": "2026-09-18",
   "positions": [
     {
       "id": 1724745600001,
@@ -629,6 +629,23 @@
       "desc": "Postdoctoral Scholar in Multi-Hazard, Multi-Sensor Monitoring at Mt Rainier. Lead interdisciplinary science at the UW College of the Environment Geohazard Initiative to advance understanding of geological hazards (landslides, volcanic, seismic) in one of North America most geologically active regions. Multi-sensor monitoring approach includes geodetic/remote sensing (InSAR, SAR), seismic, and atmospheric data. Collaboration with USGS Cascades Volcano Observatory and Pacific Northwest Seismic Network.",
       "addedDate": "2026-09-14",
       "source": "UW College of the Environment / Glassdoor"
+    },
+    {
+      "id": 1789715737,
+      "institution": "TNO (Netherlands Organisation for Applied Scientific Research)",
+      "country": "Netherlands",
+      "position": "Post-doc",
+      "funding": "€4,100 – €5,900/month (TVöD-equivalent research scientist scale)",
+      "requirements": "PhD in Geodesy, Geophysics, or Remote Sensing (other relevant degrees considered)\nHands-on experience with InSAR data processing (GAMMA, ISCE, StaMPS, GMTSAR or similar)\nAbility to develop software tools for scalable, reproducible InSAR processing\nStrong written/oral communication in English",
+      "ddl": "2026.09.20",
+      "ddl_note": "⚠️ URGENT – deadline is September 20, 2026",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.tno.nl/en/careers/vacancies/2026/08/research-scientist-insar-geodesy-utrecht/",
+      "desc": "Research Scientist in InSAR-Geodesy at TNO Utrecht, Netherlands. Advance InSAR-based observation techniques for monitoring natural and human-induced geohazards (subsidence, seismicity, groundwater, infrastructure). Full InSAR processing chain: raw SAR to deformation time series, algorithm development, quality control, physical modelling integration. Part of TNO's Geomechanics team with strong expertise in human-induced subsidence.",
+      "addedDate": "2026-09-18",
+      "source": "tno.nl / glassdoor.nl"
     }
   ]
 }
