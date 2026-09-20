@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18",
+  "lastUpdated": "2026-09-20",
   "positions": [
     {
       "id": 1724745600001,
@@ -646,6 +646,91 @@
       "desc": "Research Scientist in InSAR-Geodesy at TNO Utrecht, Netherlands. Advance InSAR-based observation techniques for monitoring natural and human-induced geohazards (subsidence, seismicity, groundwater, infrastructure). Full InSAR processing chain: raw SAR to deformation time series, algorithm development, quality control, physical modelling integration. Part of TNO's Geomechanics team with strong expertise in human-induced subsidence.",
       "addedDate": "2026-09-18",
       "source": "tno.nl / glassdoor.nl"
+    },
+    {
+      "id": 1789888537001,
+      "institution": "Virginia Tech (HIRS Lab / Earth Observation Innovation Lab)",
+      "country": "USA",
+      "position": "Post-doc",
+      "funding": "Competitive postdoc salary (~$55,000–60,000 USD/yr)",
+      "requirements": "PhD in Geoscience, Remote Sensing, or related field\nExperience with SAR/InSAR data processing and land deformation mapping\nStrong programming skills\nCV, cover letter, three references",
+      "ddl": "Rolling",
+      "ddl_note": "Posted May 2026; applications reviewed on a rolling basis",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://jobs.apply.vt.edu/jobs/postdoctoral-associate-blacksburg-virginia-united-states-9bba61fa-b882-473b-aa9f-5424d9d47747",
+      "desc": "Postdoctoral Associate at the Hydrologic Innovation & Remote Sensing Lab (HIRS) and Earth Observation Innovation Lab, Geoscience Dept, Virginia Tech. Produce land deformation maps from SAR satellite imagery; analyze complementary remote-sensing and in-situ datasets to quantify water resource hazards including land subsidence, flooding, and drought. Apply statistical and physical models to improve hazard predictions.",
+      "addedDate": "2026-09-20",
+      "source": "jobs.virginia.gov / jobs.apply.vt.edu"
+    },
+    {
+      "id": 1789888537002,
+      "institution": "Johns Hopkins University (Xu Lab, Civil & Systems Engineering)",
+      "country": "USA",
+      "position": "Post-doc",
+      "funding": "Competitive postdoc salary (NIH/JHU scale)",
+      "requirements": "PhD in Computer Science, Statistics, Civil Engineering, Geoinformatics, or related\nExperience in natural hazards, remote sensing, foundation models, or causal inference preferred\nCV, research statement, three references",
+      "ddl": "2026.09.18",
+      "ddl_note": "Deadline was Sept 18; may accept rolling applications – confirm with PI",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://careers.insidehighered.com/job/3543568/postdoctoral-fellow-civil-and-systems-engineering-/",
+      "desc": "Postdoctoral Fellow in the Xu Lab working at the intersection of natural hazards and AI. Research on generative modeling, causal inference, multimodal remote/in-situ/crowd sensing, LLMs for high-stakes decision-making, rapid disaster mapping, disaster response and recovery, and community resilience. Strong fit for AI+InSAR/remote sensing backgrounds.",
+      "addedDate": "2026-09-20",
+      "source": "insidehighered.com / chronicle.com"
+    },
+    {
+      "id": 1789888537003,
+      "institution": "VTT Technical Research Centre of Finland",
+      "country": "Finland",
+      "position": "Post-doc",
+      "funding": "Competitive salary (VTT research scientist scale)",
+      "requirements": "Min. 2 years experience analyzing SAR or Hyperspectral data (or mathematical modelling)\nProficient in Python and/or R\nExperience with AI/ML methods in remote sensing\nKnowledge of time series analysis and near-real-time processing",
+      "ddl": "Rolling",
+      "ddl_note": "Active EURAXESS listing; check VTT careers for current deadline",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://euraxess.ec.europa.eu/jobs/305897",
+      "desc": "Remote Sensing Data Scientist at VTT Technical Research Centre of Finland. Develop methods for processing large-scale SAR and hyperspectral data for natural resource monitoring, including time series analysis, near-real-time data processing, and AI-based solutions. Team focuses on forest and land cover monitoring with optical and radar remote sensing.",
+      "addedDate": "2026-09-20",
+      "source": "EURAXESS (euraxess.ec.europa.eu)"
+    },
+    {
+      "id": 1789888537004,
+      "institution": "Cranfield University (Landscape Observatory)",
+      "country": "UK",
+      "position": "Post-doc",
+      "funding": "£38,655 – £46,492 per annum",
+      "requirements": "PhD in Remote Sensing, Earth Observation, or related field\nExperience with deep learning for land cover classification and change detection\nSkills with multi-source satellite/aerial imagery\nCV, cover letter",
+      "ddl": "2026.09.17",
+      "ddl_note": "Deadline just passed (17 Sep); 18-month FTC – check for late applications",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.timeshighereducation.com/unijobs/listing/414696/research-fellow-in-remote-sensing-and-ai",
+      "desc": "Research Fellow in Remote Sensing and AI, 18-month fixed-term, within Cranfield's Landscape Observatory initiative. Develop state-of-the-art deep learning methods for land cover classification and change detection using multi-source aerial and satellite imagery. Part of Cranfield Environment Centre focused on environmental change monitoring via remote sensing and AI.",
+      "addedDate": "2026-09-20",
+      "source": "THEunijobs (timeshighereducation.com)"
+    },
+    {
+      "id": 1789888537005,
+      "institution": "University of Canterbury (School of Earth and Environment)",
+      "country": "New Zealand",
+      "position": "Post-doc",
+      "funding": "NZD $85,000/yr (2-year fixed-term)",
+      "requirements": "PhD in Earth Sciences (geomorphology, hydrology, engineering geology, geophysics, or geodesy)\nProgramming and GIS skills essential\nExperience with statistical and/or physics-based models of crustal/surface processes preferred",
+      "ddl": "Rolling",
+      "ddl_note": "Funded by NZ Earthquake Commission; Doctoral degree required before start",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://jobs.canterbury.ac.nz/jobdetails/ajid/Ulj79/Postdoctoral-Fellow-in-Earthquake-and-Landslide-Multi-hazards,19400",
+      "desc": "2-year Postdoctoral Fellow in Earthquake and Landslide Multi-hazards at University of Canterbury, NZ. Research on interactions between climate change and solid earth geohazards; reduce impacts of multi-hazards on people and infrastructure. Funded by NZ Earthquake Commission (Tū Tu Ake). Broad scope welcoming backgrounds in geomorphology, hydrology, geodesy, geophysics.",
+      "addedDate": "2026-09-20",
+      "source": "University of Canterbury careers / scholarshipdb.net"
     }
   ]
 }
