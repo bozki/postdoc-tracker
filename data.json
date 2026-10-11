@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02",
+  "lastUpdated": "2026-10-11",
   "positions": [
     {
       "id": 1724745600001,
@@ -782,6 +782,23 @@
       "desc": "Full-time permanent academic position in Geography of the Physical Environment and the Climate. Focus on Earth Systems processes including climate, geospatial methods, and multi-scale interactions with societal dynamics. Note: French fluency required for teaching.",
       "addedDate": "2026-10-02",
       "source": "Times Higher Education / UCLouvain"
+    },
+    {
+      "id": 1728604800001,
+      "institution": "Rice University (EEPS Department)",
+      "country": "USA",
+      "position": "Post-doc",
+      "funding": "$68,000/year stipend + $5,000 discretionary research allowance + relocation + benefits",
+      "requirements": "PhD in Earth, Environmental, or Planetary Sciences or related field (within last 3 years of degree)\nCV with publication list\nOne-page dissertation synopsis\nThree-page research proposal (independent, beyond PhD)\nOne-page diversity statement\nTwo reference letters to esci-postdoc@rice.edu",
+      "ddl": "2026.10.26",
+      "ddl_note": "Deadline approximately Oct 26, 2026; Spring/Fall 2027 start date",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://eeps.rice.edu/eeps-job-opportunities-pan-postdoctoral-research-fellowship",
+      "desc": "Rice University EEPS Pan Postdoctoral Research Fellowship. Two-year fellowship supporting original independent research in Earth, Environmental and Planetary Sciences. Relevant faculty work in computational hydrology, remote sensing, geospatial AI, earth surface processes, and geohazards. Applicants with interests in SAR/InSAR, landslide monitoring, or AI-driven geospatial analysis should identify potential Rice EEPS mentors before applying.",
+      "addedDate": "2026-10-11",
+      "source": "Rice University EEPS / CSDMS jobs board"
     }
   ]
 }
