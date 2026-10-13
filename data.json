@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11",
+  "lastUpdated": "2026-10-13",
   "positions": [
     {
       "id": 1724745600001,
@@ -799,6 +799,40 @@
       "desc": "Rice University EEPS Pan Postdoctoral Research Fellowship. Two-year fellowship supporting original independent research in Earth, Environmental and Planetary Sciences. Relevant faculty work in computational hydrology, remote sensing, geospatial AI, earth surface processes, and geohazards. Applicants with interests in SAR/InSAR, landslide monitoring, or AI-driven geospatial analysis should identify potential Rice EEPS mentors before applying.",
       "addedDate": "2026-10-11",
       "source": "Rice University EEPS / CSDMS jobs board"
+    },
+    {
+      "id": 1791936000001,
+      "institution": "KTH Royal Institute of Technology",
+      "country": "Sweden",
+      "position": "Post-doc",
+      "funding": "Not specified",
+      "requirements": "PhD in remote sensing, geoinformatics, or CS; deep learning for EO; multi-source EO data (LiDAR, SAR, optical)",
+      "ddl": "Rolling",
+      "ddl_note": "Open until filled",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.kth.se/lediga-jobb/868183?l=en",
+      "desc": "Postdoc in Earth Observation for 3D Urban Mapping and Climate Resilience. Analyzes multi-source EO data (SAR, LiDAR, optical) for 3D urban morphology; deep learning for EO required. Located at School of Architecture and Built Environment.",
+      "addedDate": "2026-10-13",
+      "source": "kth.se"
+    },
+    {
+      "id": 1791936000002,
+      "institution": "Utrecht University",
+      "country": "Netherlands",
+      "position": "Post-doc",
+      "funding": "€3,706–€5,760/month gross",
+      "requirements": "PhD in geoinformatics, GeoAI, or related; spatial analytics; geospatial AI/ML",
+      "ddl": "2026.11.29",
+      "ddl_note": "~47 days remaining from posting (approx deadline)",
+      "progress": "",
+      "status": "In Progress",
+      "result": "",
+      "link": "https://www.academictransfer.com/en/jobs/364292/postdoc-on-geodata-science-and-geoai",
+      "desc": "Postdoc on Geodata Science and GeoAI (12–22 months). Applies spatial analytics and GeoAI to health geography research. Relevant to AI-driven geospatial analysis.",
+      "addedDate": "2026-10-13",
+      "source": "academictransfer.com"
     }
   ]
 }
